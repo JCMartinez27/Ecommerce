@@ -1,0 +1,17 @@
+body {
+   
+    background: linear-gradient(to right, #000000 5%, #d3d3d3 100%);
+}
+@media (min-aspect-ratio: 16/9){
+    #con{
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-aspect-ratio: 16/9){
+    #con{
+        width: 100%;
+        height: auto;
+    }
+}
